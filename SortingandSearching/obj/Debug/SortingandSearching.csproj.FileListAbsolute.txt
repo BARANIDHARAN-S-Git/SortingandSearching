@@ -1,0 +1,8 @@
+C:\Users\brother\source\repos\SortingandSearching\bin\Debug\SortingandSearching.exe.config
+C:\Users\brother\source\repos\SortingandSearching\bin\Debug\SortingandSearching.exe
+C:\Users\brother\source\repos\SortingandSearching\bin\Debug\SortingandSearching.pdb
+C:\Users\brother\source\repos\SortingandSearching\obj\Debug\SortingandSearching.csproj.AssemblyReference.cache
+C:\Users\brother\source\repos\SortingandSearching\obj\Debug\SortingandSearching.csproj.SuggestedBindingRedirects.cache
+C:\Users\brother\source\repos\SortingandSearching\obj\Debug\SortingandSearching.csproj.CoreCompileInputs.cache
+C:\Users\brother\source\repos\SortingandSearching\obj\Debug\SortingandSearching.exe
+C:\Users\brother\source\repos\SortingandSearching\obj\Debug\SortingandSearching.pdb
