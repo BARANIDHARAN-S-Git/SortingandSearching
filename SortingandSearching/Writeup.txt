@@ -1,0 +1,22 @@
+GithubLink:https://github.com/BARANIDHARAN-S-Git/SortingandSearching
+
+
+step1:First,we want to give the path of the notepad file which has the student data in the format of name,class,which is unsorted.
+
+step2:Then,we want to create a list to store all the datas in the notepadfile;
+
+step3:I have used a switchcase to ask from the user,whether we want to sort the data or search.
+
+step4:After user entered the choice it directly do the particular task.
+
+step5:If the user entered to do sort ,I have given the empty notepad path ,where we want to sort the data and store it there.
+
+step6:If the user enters to search it will search with the data whether the student detail is present or not.
+
+step7: If it there,it will print the student name and class,else it print "your entered name is not presnt in the file."
+
+step8:After the completion of the user choice,it again ask the user to again do the process or exit the process.
+
+step9:If the user enter continue the process,it again continue the process of sort or search based on user choice.
+
+step10:suppose if the uer enters to exit the process,it will end the process and display some message:"Thankyou,you have successfully ended the process."
